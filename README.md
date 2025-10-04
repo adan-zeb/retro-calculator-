@@ -3,6 +3,8 @@
 A simple retro-style calculator built with HTML, CSS, and JavaScript.  
 It features a pink theme with rounded buttons and shadows, supporting basic arithmetic operations with a clean responsive design.  
 
+![Calculator Interface](calculator.PNG)
+
 ---
 
 ## Features
